@@ -350,8 +350,8 @@ a.paper-title:hover {
     --text: #f9fafb;
     --text-secondary: #d1d5db;
     --text-muted: #9ca3af;
-    --bg: #1f2937;
-    --bg-subtle: #111827;
+    --bg: #111111;
+    --bg-subtle: #000000;
     --border: #374151;
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.4);
